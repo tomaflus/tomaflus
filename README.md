@@ -64,15 +64,12 @@ My focus is on shipping clean, production-ready software: nothing over-engineere
 
 ---
 
-## GitHub Stats
+## 📊 Activity
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tomaflus&show_icons=true&hide_border=true&bg_color=080808&title_color=E8FF00&text_color=F5F4F0&icon_color=E8FF00)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tomaflus&layout=compact&hide_border=true&bg_color=080808&title_color=E8FF00&text_color=F5F4F0&langs_count=8)
-
-</div>
+- **Primary languages:** Java · Kotlin · TypeScript · JavaScript
+- **Main platforms:** Android · Android TV · Web (Next.js / React)
+- **Focus areas:** Mobile apps, full-stack web, AI/ML integration
+- **Current status:** Active — shipping products for regional and international markets
 
 ---
 
