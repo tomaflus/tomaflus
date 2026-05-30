@@ -58,7 +58,7 @@ My focus is on shipping clean, production-ready software: nothing over-engineere
 
 | Project | Platform | Description |
 |:--------|:---------|:------------|
-| **Yugo Pro Player** | Android · Android TV | Hardware-accelerated media player with full TV remote navigation and a clean lean-back UI |
+| **Media Player App** | Android · Android TV | Hardware-accelerated media player with full TV remote navigation and a clean lean-back UI |
 | **Slagalica** | Android | Localized quiz game based on the popular regional TV show format |
 | **Jutjubic** | Web · Mobile | YouTube alternative focused on content freedom and a distraction-free viewing experience |
 
